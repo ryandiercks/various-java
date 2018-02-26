@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KiloConverterWindow()
+comment0.text=\r\n\ \ \ \ \ \ Constructor\r\n
+comment1.params=
+comment1.target=void\ buildPanel()
+comment1.text=\r\n\ \ \ \ \ \ The\ buildPanel\ method\ adds\ a\ label,\ text\ field,\ and\r\n\ \ \ \ \ \ and\ a\ button\ to\ a\ panel.\r\n
+numComments=2
