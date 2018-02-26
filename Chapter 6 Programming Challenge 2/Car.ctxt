@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=passengers\ topSpeed
+comment0.target=Car(int,\ double)
+comment0.text=\r\n\ \ \ \ \ \ Constructor\r\n\ \ \ \ \ \ @param\ passengers\ The\ number\ of\ passengers.\r\n\ \ \ \ \ \ @param\ topSpeed\ The\ car's\ top\ speed.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ \ \ \ \ \ The\ toString\ method\ returns\ a\ string\ showing\r\n\ \ \ \ \ \ the\ number\ of\ passengers\ and\ top\ speed.\r\n\ \ \ \ \ \ @return\ A\ reference\ to\ a\ String.\ \r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=man\ mod\ price
+comment0.target=CellPhone(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ \ \ \ \ \ Constructor\r\n\ \ \ \ \ \ @param\ man\ The\ phone's\ manufacturer.\r\n\ \ \ \ \ \ @param\ mod\ The\ phone's\ model\ number.\r\n\ \ \ \ \ \ @param\ price\ The\ phone's\ retail\ price.\r\n
+comment1.params=man
+comment1.target=void\ setManufact(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ The\ setManufact\ method\ sets\ the\ phone's\r\n\ \ \ \ \ \ manufacturer\ name.\r\n\ \ \ \ \ \ @param\ man\ The\ phone's\ manufacturer.\r\n
+comment2.params=mod
+comment2.target=void\ setMod(java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ The\ setModel\ method\ sets\ the\ phone's\r\n\ \ \ \ \ \ model\ number.\r\n\ \ \ \ \ \ @param\ mod\ The\ phone's\ model\ number.\r\n
+comment3.params=price
+comment3.target=void\ setRetailPrice(double)
+comment3.text=\r\n\ \ \ \ \ \ The\ setRetailPrice\ method\ sets\ the\ phone's\r\n\ \ \ \ \ \ retail\ price.\r\n\ \ \ \ \ \ @param\ price\ The\ phone's\ retail\ price.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getManufact()
+comment4.text=\r\n\ \ \ \ \ \ getManufact\ method\r\n\ \ \ \ \ \ @return\ The\ name\ of\ the\ phone's\ manufacturer.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getModel()
+comment5.text=\r\n\ \ \ \ \ \ getModel\ method\r\n\ \ \ \ \ \ @return\ The\ phone's\ model\ number.\r\n
+comment6.params=
+comment6.target=double\ getRetailPrice()
+comment6.text=\r\n\ \ \ \ \ \ getretailPrice\ method\r\n\ \ \ \ \ \ @return\ The\ phone's\ retail\ price.\r\n
+numComments=7

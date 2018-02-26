@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=len\ w
+comment0.target=Rectangle(double,\ double)
+comment0.text=\r\n\ \ \ \ \ \ Constructor\r\n\ \ \ \ \ \ @param\ len\ The\ length\ of\ the\ rectangle.\r\n\ \ \ \ \ \ @param\ w\ The\ width\ of\ the\ rectangle.\r\n
+comment1.params=len
+comment1.target=void\ setLength(double)
+comment1.text=\r\n\ \ \ \ \ \ The\ setLength\ method\ stores\ a\ value\ in\ the\r\n\ \ \ \ \ \ length\ field.\r\n\ \ \ \ \ \ @param\ len\ The\ value\ to\ store\ in\ length.\r\n
+comment2.params=w
+comment2.target=void\ setWidth(double)
+comment2.text=\r\n\ \ \ \ \ \ The\ setWidth\ method\ stores\ a\ value\ in\ the\r\n\ \ \ \ \ \ width\ field.\r\n\ \ \ \ \ \ @param\ w\ The\ value\ to\ store\ in\ width.\r\n
+comment3.params=
+comment3.target=double\ getLength()
+comment3.text=\r\n\ \ \ \ \ \ The\ getLength\ method\ returns\ a\ Rectangle\r\n\ \ \ \ \ \ object's\ length.\r\n\ \ \ \ \ \ @return\ The\ value\ in\ the\ length\ field.\r\n
+comment4.params=
+comment4.target=double\ getWidth()
+comment4.text=\r\n\ \ \ \ \ \ The\ getWidth\ method\ returns\ a\ Rectangle\r\n\ \ \ \ \ \ object's\ width.\r\n\ \ \ \ \ \ @return\ The\ value\ in\ the\ width\ field.\r\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\r\n\ \ \ \ \ \ The\ getArea\ method\ returns\ a\ Rectangle\r\n\ \ \ \ \ \ object's\ area.\r\n\ \ \ \ \ \ @return\ The\ product\ of\ length\ times\ width.\r\n
+numComments=6

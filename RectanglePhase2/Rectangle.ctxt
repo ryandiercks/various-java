@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=len
+comment0.target=void\ setLength(double)
+comment0.text=\r\n\ \ \ \ \ \ The\ setLength\ method\ stores\ a\ value\ in\ the\r\n\ \ \ \ \ \ length\ field.\r\n\ \ \ \ \ \ @param\ len\ The\ value\ to\ store\ in\ length.\r\n
+comment1.params=w
+comment1.target=void\ setWidth(double)
+comment1.text=\r\n\ \ \ \ \ \ The\ setWidth\ method\ stores\ a\ value\ in\ the\r\n\ \ \ \ \ \ width\ field.\r\n\ \ \ \ \ \ @param\ w\ The\ value\ to\ store\ in\ width.\r\n
+numComments=2
