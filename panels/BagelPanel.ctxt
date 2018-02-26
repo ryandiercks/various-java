@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BagelPanel()
+comment0.text=\r\n\ Constructor\r\n\ \r\n
+comment1.params=
+comment1.target=double\ getBagelCost()
+comment1.text=\ getBagelCost\ method\ @\ return\ the\ cost\ of\ the\ selected\ bagel\r\n\ \r\n\ \r\n
+numComments=2

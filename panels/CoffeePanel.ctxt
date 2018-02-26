@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CoffeePanel()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=
+comment1.target=double\ getCoffeeCost()
+comment1.text=\r\n\ getCoffeeCost\ method\ @return\ The\ cost\ of\ the\ selected\ coffee.\r\n
+numComments=2

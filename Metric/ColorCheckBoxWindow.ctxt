@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ColorCheckBoxWindow()
+comment0.text=\r\n\ \ \ \ \ \ Constructor\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ The\ main\ method\ creates\ an\ instance\ of\ the\r\n\ \ \ \ \ \ ColorCheckBoxWindow\ class,\ displaying\ its\ window.\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SalesTax()
+comment1.params=
+comment1.target=void\ buildPanel()
+comment1.text=\ The\ buildPanel\ method\ creates\ a\ panel\ containing\ other\ components\r\n\ \r\n\ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=The\ main\ method\ creates\ an\ instance\ of\ the\ \r\n\ salesTaxClass,\ causing\ it\ to\ display\ its\ window.\r\n\ \r\n
+numComments=3
