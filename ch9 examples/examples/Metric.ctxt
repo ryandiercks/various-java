@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=miles
+comment0.target=double\ milesToKilometers(double)
+comment0.text=\r\n\ The\ milesToKilometers\ method\ converts\ miles\ \ \ \ \ \ \r\n\ to\ kilometers.\ A\ distance\ in\ miles\ should\ be\ \ \ \ \ \r\n\ passed\ into\ the\ miles\ parameter.\ The\ method\ \ \ \ \ \ \r\n\ returns\ the\ equivalent\ distance\ in\ kilometers.\r\n
+comment1.params=kilometers
+comment1.target=double\ kilometersToMiles(double)
+comment1.text=\r\n\ The\ kilometersToMiles\ method\ converts\ kilometers\ \r\n\ to\ miles.\ A\ distance\ in\ kilometers\ should\ be\ \ \ \ \ \r\n\ passed\ into\ the\ kilometers\ parameter.\ The\ method\ \r\n\ returns\ the\ equivalent\ distance\ in\ miles.\r\n
+numComments=2

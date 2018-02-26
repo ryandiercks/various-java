@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=sym\ price
+comment0.target=Stock(java.lang.String,\ double)
+comment1.params=object2
+comment1.target=Stock(Stock)
+comment2.params=
+comment2.target=java.lang.String\ getSymbol()
+comment3.params=
+comment3.target=double\ getSharePrice()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=object2
+comment5.target=boolean\ equals(Stock)
+comment6.params=
+comment6.target=Stock\ copy()
+numComments=7

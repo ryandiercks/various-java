@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=textTitle\ auth\ pub
+comment0.target=TextBook(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ This\ constructor\ accepts\ arguments\ for\ the\ \ \ \r\n\ title,\ author,\ and\ publisher.\r\n
+comment1.params=object2
+comment1.target=TextBook(TextBook)
+comment1.text=\r\n\ Copy\ constructor\ \ \r\n
+comment2.params=textTitle\ auth\ pub
+comment2.target=void\ set(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ The\ set\ method\ sets\ each\ field.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ The\ toString\ method\ returns\ a\ string\ containing\ \r\n\ the\ textbook\ information.\ \r\n
+numComments=4

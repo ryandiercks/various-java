@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Countable()
+comment0.text=\r\n\ The\ constructor\ increments\ the\ static\ field\ \r\n\ instanceCount.\ This\ keeps\ track\ of\ the\ number\ \r\n\ of\ instances\ of\ this\ class\ that\ are\ created.\r\n
+comment1.params=
+comment1.target=int\ getInstanceCount()
+comment1.text=\r\n\ The\ getInstanceCount\ method\ returns\ the\ \r\n\ number\ of\ instances\ of\ this\ class\r\n\ that\ have\ been\ created.\ @return\ The\ value\r\n\ in\ the\ instanceCount\ field.\r\n
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=stockObject\ numShares
+comment0.target=StockPurchase(Stock,\ int)
+comment0.text=\r\n\ Constructor\ @param\ stock\r\n\ Object\ The\ stock\ to\ purchase.\ \r\n\ @param\ numShares\ The\ number\ of\ shares.\r\n
+comment1.params=
+comment1.target=Stock\ getStock()
+comment1.text=\ getStock\ method\r\n\ @return\ A\ copy\ of\ the\ \r\n\ Stock\ object\ for\ the\ stock\ \r\n\ being\ purchased.\r\n
+comment2.params=
+comment2.target=int\ getShares()
+comment2.text=\ getShares\ method\ \r\n\ @return\ The\ number\ \r\n\ of\ shares\ being\ purchased.\r\n
+comment3.params=
+comment3.target=double\ getCost()
+comment3.text=\ getCost\ method\ \r\n\ @return\ The\ cost\ \r\n\ of\ the\ stock\ purchase.\r\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=void\ setLastName(java.lang.String)
+comment0.text=\r\n\ The\ setLastName\ method\ sets\ \r\n\ the\ lastName\ field.\ @param\ str\ The\ String\ \r\n\ to\ set\ lastName\ to.\r\n
+comment1.params=str
+comment1.target=void\ setFirstName(java.lang.String)
+comment1.text=\ \r\n\ The\ setFirstName\ method\ sets\ \r\n\ the\ firstName\ field.\ @param\ str\r\n\ The\ String\ to\ set\ firstName\ to.\r\n
+comment2.params=str
+comment2.target=void\ setMiddleName(java.lang.String)
+comment2.text=\r\n\ The\ setMiddleName\ method\ sets\ the\r\n\ middleName\ field.\ @param\ str\ The\ \r\n\ String\ to\ set\ middleName\ to.\r\n
+comment3.params=
+comment3.target=int\ getLength()
+comment3.text=\r\n\ The\ getLength\ method\ returns\ the\ \r\n\ length\ of\ the\ full\ name.\ \ \r\n\ @return\ The\ length.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ The\ toString\ method\ returns\ the\ full\ name.\ \r\n\ @return\ A\ reference\ to\ a\ String.\r\n
+numComments=5

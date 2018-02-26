@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=lname\ fname\ office
+comment0.target=Instructor(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ This\ constructor\ accepts\ arguments\ for\ the\ \ \ \r\n\ last\ name,\ first\ name,\ and\ office\ number.\r\n
+comment1.params=object2
+comment1.target=Instructor(Instructor)
+comment1.text=\r\n\ Copy\ constructor\r\n
+comment2.params=lname\ fname\ office
+comment2.target=void\ set(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ The\ set\ method\ sets\ each\ field.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ The\ toString\ method\ returns\ a\ string\ containing\ \r\n\ the\ instructor\ information.\r\n
+numComments=4

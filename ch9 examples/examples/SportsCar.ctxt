@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=aMake\ aColor\ aPrice
+comment0.target=SportsCar(CarType,\ CarColor,\ double)
+comment0.text=\r\n\ The\ constructor\ initializes\ the\ car's\ make,\r\n\ color,\ and\ price.\ \r\n\ @param\ aMake\ The\ car's\ make.\ \r\n\ @param\ aColor\ The\ car's\ color.\r\n\ @param\ aPrice\ The\ car's\ price.\r\n
+comment1.params=
+comment1.target=CarType\ getMake()
+comment1.text=\r\n\ getMake\ method\ @return\ \r\n\ The\ car's\ make.\r\n
+comment2.params=
+comment2.target=CarColor\ getColor()
+comment2.text=\r\n\ getColor\ method\ \r\n\ @return\ The\ car's\ color.\r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\r\n\ getPrice\ method\ \r\n\ @return\ The\ car's\ price.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ method\ \r\n\ @return\ A\ string\ \r\n\ indicating\ the\ car's\ make,\ \r\n\ color,\ and\ price.\r\n
+numComments=5
