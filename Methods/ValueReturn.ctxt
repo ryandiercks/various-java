@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=num1\ num2
+comment1.target=int\ sum(int,\ int)
+comment1.text=\r\n\ \ \ \ \ \ The\ sum\ method\ returns\ the\ sum\ of\ its\ two\ parameters.\r\n\ \ \ \ \ \ @param\ num1\ The\ first\ number\ to\ be\ added.\r\n\ \ \ \ \ \ @param\ num2\ The\ second\ number\ to\ be\ added.\r\n\ \ \ \ \ \ @return\ The\ sum\ of\ num1\ and\ num2.\r\n
+numComments=2
