@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getModel()
+comment1.params=model
+comment1.target=void\ setModel(java.lang.String)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getSpeed()
+comment3.params=speed
+comment3.target=void\ setSpeed(int)
+comment4.params=
+comment4.target=int\ getYearmake()
+comment5.params=yearmake
+comment5.target=void\ setYearmake(int)
+comment6.params=speed
+comment6.target=Car(int)
+comment7.params=yearmake\ model\ speed
+comment7.target=Car(int,\ java.lang.String,\ int)
+comment8.params=speed
+comment8.target=int\ acclarate(int)
+comment9.params=speed
+comment9.target=int\ Breaking(int)
+numComments=11
