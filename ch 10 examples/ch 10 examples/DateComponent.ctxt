@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dateStr
+comment0.target=DateComponent(java.lang.String)
+comment0.text=\r\n\ The\ constructor\ accepts\ a\ String\ \r\n\ containing\ a\ date\ in\ the\ form\ MONTH/DAY/YEAR.\ \r\n\ It\ extracts\ the\ month,\ day,\ and\ year\ from\ the\ string.\r\n\ @param\ dateStr\ A\ String\ containing\ a\ date.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMonth()
+comment1.text=\r\n\ getMonth\ method\r\n\ @return\ The\ month\ field.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDay()
+comment2.text=\r\n\ getDay\ method\r\n\ @return\ The\ day\ field.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getYear()
+comment3.text=\r\n\ getYear\ method\r\n\ @return\ The\ year\ field.\r\n
+numComments=4

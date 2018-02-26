@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=java.lang.String\ format(java.lang.String)
+comment0.text=\ \r\n\ The\ format\ method\ accepts\ \r\n\ a\ String\ containing\ an\ unformatted\ \r\n\ telephone\ number,\ such\ as\ 9195551212.\ \r\n\ It\ returns\ a\ String\ containing\ a\ formatted\ \r\n\ telephone\ number,\ such\ as\ (919)555-1212.\ @param\ \r\n\ number\ The\ number\ to\ format.\ @return\ A\ reference\ \r\n\ to\ the\ formatted\ String.\r\n
+numComments=1
